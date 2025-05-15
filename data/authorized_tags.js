@@ -1,16 +1,16 @@
 define({
 	authorizedTags: {
-		"type:technique": {
-			"description": "novel aggregation operator"
+		"type:Theoretical Development and Extension": {
+			"description": "Theoretical advancements of OWA operators"
 		},
-		"type:application": {
-			"description": "applying an aggregation operator to a specific scenario"
+		"type:Novel Operator Proposal": {
+			"description": "Novel operators based on OWA operators"
 		},
-		"type:evaluation": {
-			"description": "empirical, algorithmic, or theoretical evaluation of aggregation operators"
+		"type:Practical Application": {
+			"description": "Application of OWA operators to specific domains or scenarios"
 		},
-		"type:review": {
-			"description": "literature review of aggregation operators"
+		"type:Review and Survey": {
+			"description": "Overviews of OWA operators development and applications"
 		}
 	}
 });
