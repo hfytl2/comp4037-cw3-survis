@@ -1,15 +1,15 @@
 define({
 	authorizedTags: {
-		"type:Theoretical Development and Extension": {
+		"type:theoretical development and extension": {
 			"description": "Theoretical advancements of OWA operators"
 		},
-		"type:Novel Operator Proposal": {
+		"type:novel operator proposal": {
 			"description": "Novel operators based on OWA operators"
 		},
-		"type:Practical Application": {
+		"type:practical application": {
 			"description": "Application of OWA operators to specific domains or scenarios"
 		},
-		"type:Review and Survey": {
+		"type:review and survey": {
 			"description": "Overviews of OWA operators development and applications"
 		}
 	}
