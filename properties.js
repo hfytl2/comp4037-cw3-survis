@@ -47,7 +47,7 @@ var tagCloudOptions = [{
  * If BibTeX entries (and tags) should be editable
  * @type {boolean}
  */
-var editable = true;
+var editable = false;
 
 /**
  * Subtitle describing the paper the data is referring to (set to null to deactivate)
@@ -62,9 +62,10 @@ var paper = null;
 /**
  * Extra pages like an about page that will be listed in the footer an can be opened on demand (page name -> path)
  */
-var extraPages = {
-    'about': 'about.html'
-};
+var extraPages = null;
+// var extraPages = {
+//     'about': 'about.html'
+// };
 
 /**
  * Custom style as path to an extra css file (leave empty if not applicable)

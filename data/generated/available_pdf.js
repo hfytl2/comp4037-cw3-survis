@@ -1,1 +1,1 @@
-define({availablePdf: ["Alfaro-Garcia2018","Broomell2024","Csiszar2021","Flores-Sosa2022","Gao2015","Jin2021","Kacprzyk2019","Mesiar2018","Yager2010","Yager2019"]});
+define({availablePdf: ["Beliakov2018","Broomell2024","Csiszar2021","Flores-Sosa2022","Jin2021","Merigo2016","Merigo2019","Mesiar2018","Shu2022","Yager2019"]});
